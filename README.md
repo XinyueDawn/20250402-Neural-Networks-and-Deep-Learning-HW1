@@ -1,1 +1,4 @@
-# 20250402-Neural-Networks-and-Deep-Learning-HW1
+# CIFAR-10图像分类项目
+
+使用三层神经网络实现CIFAR-10图像分类
+
